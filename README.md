@@ -3,7 +3,7 @@
 To use the GPT-3.5 script, run the following command in your terminal:
 
 ```bash
-python GPT-3.5.py <timeout time>
+python ai-ENC.py <timeout time>
 ```
 
 ## Note:
